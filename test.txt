@@ -10,3 +10,5 @@ I'm in dev branch now.
 The line is being added in dev branch.
 
 This line is being added in master branch.
+
+This is another change in dev.
