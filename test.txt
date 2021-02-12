@@ -5,3 +5,7 @@ init changes in file
 --------------------
 NOW IN DEV BRANCH 
 Changes in dev branch
+
+The line is being added in dev branch.
+
+This line is being added in master branch.
