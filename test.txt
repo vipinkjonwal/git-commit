@@ -1,15 +1,4 @@
 b
 c
 
--- on test branch
-// some changes done on test branch
-// some more chnages to test cherry-pick
-// someeeeee thingssss
--- test branch changes done
-
--- changes on master done
--- changes on test branch new
-
--- a new test branch created
-
--- feature changes
+- reverting changes
