@@ -4,9 +4,6 @@ c
 - reverting changes
 
 - testing branch
-<<<<<<< HEAD
-- more changes
-=======
 - more changes
 
 ---
